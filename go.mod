@@ -1,7 +1,7 @@
 module github.com/docker/compose/v2
 
 go 1.19
-
+// test
 require (
 	github.com/AlecAivazis/survey/v2 v2.3.6
 	github.com/buger/goterm v1.0.4
